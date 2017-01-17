@@ -5,7 +5,7 @@ First to show similarities and difference between Elm and Haskell in terms of sy
 
 # Slides
 
-The slides are in a [single markdown file](https://github.com/1use/elm-presentation-haskell-ug-frankfurt-01-2017).
+The slides are in a [single markdown file](https://github.com/1use/elm-presentation-haskell-ug-frankfurt-01-2017/blob/master/elm-presentation-haskell-ug.md).
 
 # Links Elm 
 
@@ -21,7 +21,7 @@ The slides are in a [single markdown file](https://github.com/1use/elm-presentat
 
 * [André Staltz - Why I cannot say FRP but I just did](https://medium.com/@andrestaltz/why-i-cannot-say-frp-but-i-just-did-d5ffaa23973b#.iv4jmiu4k)
 * [André Staltz - Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
-* [The difference between Reactive and Functional-Reactive programming](http://stackoverflow.com/questions/5385377/the-difference-between-reactive-and-functional-reactive-programming/5386908#5386908)
+* [The difference between Reactive and Functional-Reactive Programming](http://stackoverflow.com/questions/5385377/the-difference-between-reactive-and-functional-reactive-programming/5386908#5386908)
 * [Visualization of Elm Signals](https://yang-wei.github.io/elmflux/)
 
 # Code Examples
