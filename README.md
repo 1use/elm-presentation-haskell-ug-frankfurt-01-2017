@@ -1,7 +1,7 @@
 # Elm Presentation at Haskell User Group January 2017 
 
-The Goal of my Elm Talk at Frankfurt Haskell User Group is twofold.
-First to show similarities and difference between Elm and Haskell in terms of syntax but also regarding Type Definitions and Pattern Matching. Second to discuss the concept of Functional Reactive Programming and how Elm used to handle Reactivity before the version 0.17 and how reactivity is handled in the current 0.18 version. The breaking change with removal of signals happened in version 0.17 and are described by Evan Czaplicki in this Evan Czaplicki May 10th 2016 post: http://elm-lang.org/blog/farewell-to-frp
+The goal of my Elm Talk at Frankfurt Haskell User Group is twofold.
+First to show similarities and difference between Elm and Haskell in terms of syntax but also regarding Type Definitions and Pattern Matching. Second to discuss the concept of Functional Reactive Programming and how Elm used to handle Reactivity before the version 0.17 and how reactivity is handled in the current 0.18 version. The breaking change with removal of signals happened in version 0.17 and are described by Evan Czaplicki in this May 10th 2016 post: http://elm-lang.org/blog/farewell-to-frp
 
 # Slides
 
